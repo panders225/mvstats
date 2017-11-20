@@ -1,0 +1,11 @@
+Package: mvstats
+Type: Package
+Title: Phil Anderson's personal R package for STAT 636
+Version: 0.1.0
+Author: person("Philip", "Anderson", email="panders225@gmail.com", rol=c("aut", "cre")
+Maintainer: Phil Anderson <panders225@gmail.com">
+Description: I'm building this mainly as a study guide.  Shouldn't contain too much (if any) new functions, will borrow a lot from other packages
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Depends: R( >= 2.10)
