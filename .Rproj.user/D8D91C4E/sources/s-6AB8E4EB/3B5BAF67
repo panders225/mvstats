@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1511213072967.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3B5BAF67",
+    "lastKnownWriteTime" : 1511215405,
+    "last_content_update" : 1511215405634,
+    "path" : "C:/Users/Philip/Schools/TAMU/STAT_636/r_pkg/mvstats/R/pca_time.R",
+    "project_path" : "R/pca_time.R",
+    "properties" : {
+        "cursorPosition" : "16,22",
+        "marks" : "<:0,0\n>:0,0",
+        "scrollLine" : "8",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

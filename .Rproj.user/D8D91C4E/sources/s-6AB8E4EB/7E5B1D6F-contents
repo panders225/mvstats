@@ -1,0 +1,27 @@
+
+
+# function to take in data set, perform PCA.
+# returns loadings, plot of first principal component / second principal component
+
+pca_func <- function() {
+  
+  
+  
+}
+
+mt_pca <- princomp(mtcars, cor = T)
+
+
+str(mt_pca)
+mt_pca$loadings
+
+plot(mt_pca)
+mt_pca$scores %>% head()
+
+plot(mt_pca$scores[,1], mt_pca$scores[,2])
+
+biplot(eigen(cov(mtcars)))
+biplot(mt_pca)
+
+
+help(biplot)
